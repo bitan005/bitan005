@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Bitan
-- 👀 I’m interested in Kdramas, Coding and you...
 - 🌱 I’m currently learning Python and Tkinter
 - 💞️ I’m looking to collaborate on GUI Projects with Python
 - 📫 You can reach me on Instagram
